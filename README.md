@@ -7,3 +7,5 @@ Marcela - github.com/MarcelaGoncalves20
 Júlia Gomes - github.com/Juliag0m3s
 <br>
 Leticia - github.com/Leci-cia
+<br>
+Rebeca - github.com/Rebeca Cruz
