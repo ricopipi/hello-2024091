@@ -5,3 +5,5 @@ Alexandre Pimentel - github.com/profxx
 Marcela - github.com/MarcelaGoncalves20
 <br>
 Júlia Gomes - github.com/Juliag0m3s
+<br>
+Rebeca - github.com/Rebeca Cruz
